@@ -1,9 +1,9 @@
 [
   {
-    "Device Id": "PASTE-DEVICE-ID", 
-    "username": "PASTE-USERNAME",
-    "password": "PASTE-PASSWORD",
-    "expiry": "2025-10-15" 
+    "Device Id": "9f33a75302554dd2", 
+    "username": "cmtool",
+    "password": "1234",
+    "expiry": "2035-10-15" 
   },
   {
     "Device Id": "",  
