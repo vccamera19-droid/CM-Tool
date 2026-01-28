@@ -19,5 +19,15 @@
     "username": "def",
     "password": "102",
     "expiry": ""
+  },
+  {
+    "username": "A1234",
+    "Device Id": "eb930cfa2a672fa4",
+    "password": "B1234",
+    "expiry": "2027-02-02",
+    "paymentUSD": 0,
+    "paymentBDT": 500,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
