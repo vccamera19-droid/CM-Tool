@@ -1,20 +1,23 @@
 [
   {
-    "Device Id": "9f33a75302554dd2", 
+    "Device Id": "9f33a75302554dd2",
     "username": "cmtool",
     "password": "1234",
-    "expiry": "2035-10-15" 
+    "expiry": "2035-10-15"
   },
   {
-    "Device Id": "",  
+    "Device Id": "10ce56c0f64965fc",
     "username": "abc",
     "password": "101",
-    "expiry": "2026-09-29"
+    "expiry": "2026-09-29",
+    "paymentUSD": 18,
+    "paymentBDT": 0,
+    "allowoffline": false
   },
   {
     "Device Id": "PASTE-DEVICE-ID",
     "username": "def",
     "password": "102",
-    "expiry": "" 
+    "expiry": ""
   }
 ]
