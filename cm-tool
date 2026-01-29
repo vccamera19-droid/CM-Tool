@@ -15,15 +15,6 @@
     "allowoffline": false
   },
   {
-    "Device Id": "PASTE-DEVICE-ID",
-    "username": "Cmt1",
-    "password": "1111",
-    "expiry": "2027-02-02",
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "allowoffline": false
-  },
-  {
     "username": "A1234",
     "Device Id": "eb930cfa2a672fa4",
     "password": "B1234",
