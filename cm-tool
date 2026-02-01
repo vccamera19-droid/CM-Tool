@@ -6,9 +6,9 @@
     "expiry": "2035-10-15"
   },
   {
-    "Device Id": "10ce56c0f64965fc",
+    "Device Id": "749f4cf9956bcf80",
     "username": "abc",
-    "password": "101",
+    "password": "1000",
     "expiry": "2026-09-29",
     "paymentUSD": 18,
     "paymentBDT": 0,
@@ -28,16 +28,6 @@
     "username": "Cmt1",
     "Device Id": "78313c79c5ad0d14",
     "password": "1111",
-    "expiry": "2027-02-02",
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "allowoffline": false,
-    "blocked": false
-  },
-  {
-    "username": "PPPP",
-    "Device Id": "749f4cf9956bcf80",
-    "password": "NNNN",
     "expiry": "2027-02-02",
     "paymentUSD": 0,
     "paymentBDT": 0,
