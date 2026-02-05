@@ -33,5 +33,15 @@
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "A999",
+    "Device Id": "4aa487adcf68aada",
+    "password": "AIsheik",
+    "expiry": "2027-02-02",
+    "paymentUSD": 10,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
