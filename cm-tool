@@ -18,9 +18,9 @@
     "username": "AAAA1",
     "Device Id": "9834d78626aa345e",
     "password": "BBBB@1",
-    "expiry": "2027-02-02",
-    "paymentUSD": 0,
-    "paymentBDT": 500,
+    "expiry": "2028-02-02",
+    "paymentUSD": 100,
+    "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
   },
