@@ -25,9 +25,9 @@
     "blocked": false
   },
   {
-    "username": "Cmt1",
+    "username": "admin",
     "Device Id": "78313c79c5ad0d14",
-    "password": "1111",
+    "password": "1000",
     "expiry": "2027-02-02",
     "paymentUSD": 0,
     "paymentBDT": 0,
