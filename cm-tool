@@ -6,7 +6,7 @@
     "expiry": "2035-10-15"
   },
   {
-    "Device Id": "9834d78626aa345e",
+    "Device Id": "9626aa345e",
     "username": "abc",
     "password": "1000",
     "expiry": "2026-09-29",
@@ -16,7 +16,7 @@
   },
   {
     "username": "Abir11",
-    "Device Id": "10ca2b6428bb5e10",
+    "Device Id": "10c28bb5e10",
     "password": "Abir@1",
     "expiry": "2028-02-02",
     "paymentUSD": 100,
@@ -36,7 +36,7 @@
   },
   {
     "username": "Sumon12",
-    "Device Id": "1f1a8e01f5abb324",
+    "Device Id": "1f1a8e0324",
     "password": "Sumon@12",
     "expiry": "2026-10-02",
     "paymentUSD": 23,
