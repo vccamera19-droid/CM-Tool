@@ -26,7 +26,7 @@
   },
   {
     "username": "admin",
-    "Device Id": "78313c79c5ad0d14",
+    "Device Id": "d3d7efecc18753a8",
     "password": "1000",
     "expiry": "2027-02-02",
     "paymentUSD": 0,
@@ -39,7 +39,7 @@
     "Device Id": "c2f2a8281bbd9f6a",
     "password": "1111",
     "expiry": "2026-10-02",
-    "paymentUSD": 23,
+    "paymentUSD": 50,
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
